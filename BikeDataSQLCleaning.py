@@ -258,3 +258,5 @@ with sqlite3.connect("bikedata.db") as connection:
               csv_writer.writerows(c)
 
 
+    ##Link to the visualizations in Tableau Public;
+    ##https://public.tableau.com/app/profile/collin.mcclendon/viz/CyclisticBikeData_16690709427350/Sheet8#1
